@@ -1,0 +1,14 @@
+@media(max-width:400px){
+    .mobile_player{
+        width: 100%;
+    }
+    .section.details{
+        text-align: center;
+
+    }
+    .section.details .card__content{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}

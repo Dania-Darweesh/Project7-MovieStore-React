@@ -1,0 +1,31 @@
+.checkout__cart{
+   padding-top:5rem;
+   
+    
+}
+.checkout__form{
+    width: 100vw;
+    padding: 8rem 0rem;
+}
+.checkout__form .sign__group{
+    margin: 1rem 2rem;
+    width: 20rem;
+    height: 4rem;
+}
+.total__price__checkout{
+    color: white;
+}
+@media(max-width:1200px){
+    .checkout__cart{
+        padding: 0rem 0rem;
+
+       
+    }
+    .checkout__form{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        padding-top: 37%;
+        
+       }
+}

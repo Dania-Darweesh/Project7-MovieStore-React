@@ -1,0 +1,12 @@
+.sign.section--bg{
+    background: url('../../../public/img/section/section.jpg');
+				background-position: center center;
+				background-repeat: no-repeat;
+				background-size: cover
+}
+.section.section--bg{
+	background: url('../../../public/img/section/section.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover
+}
